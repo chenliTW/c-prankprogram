@@ -1,2 +1,2 @@
-# c++ 超廢整人程式
+# Windows超廢整人程式
 Run in Windows only
