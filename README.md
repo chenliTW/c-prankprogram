@@ -1,3 +1,2 @@
-# c-prankprogram
-funprograms
-do not run the program!
+# c++ 超廢整人程式
+##Run in Windows only
